@@ -1,5 +1,5 @@
 # ACF Locations Field
 
-Welcome to the Advanced Custom Fields Locations repository on Github.
+The Base code is from ACF.  Update code to allow ACF to accept this new field.
 
 EXTENDED_DESCRIPTION
